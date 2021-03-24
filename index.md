@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao XAP Games
 
-You can use the [editor on GitHub](https://github.com/XAPGAMES/xapgames.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui disponibizamos os clientes e ips de conexão para os melhores servidores de CS 1.6 e Call of Duty 4 para você se divertir.
+Temos nossa infraestrutura localizada em Chapecó e compartilhada em curitiba, para manter uma latência baixa e melhorar a experiência de jogo!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
